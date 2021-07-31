@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey", "Journey\Journey.csproj", "{F04BCB69-C1A4-4F81-BE34-CF811500F801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04BCB69-C1A4-4F81-BE34-CF811500F801}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E71967-B11C-4D0D-AD11-1F70EEBE68F4}
+	EndGlobalSection
+EndGlobal
